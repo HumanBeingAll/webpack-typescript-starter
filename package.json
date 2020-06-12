@@ -13,7 +13,7 @@
     "build.all": "npm run build.prod && npm run build.esnext",
     "test": "karma start karma.config.js"
   },
-  "keywords": [
+  "keywords": [ 
     "webpack",
     "webpack4",
     "typescript"
